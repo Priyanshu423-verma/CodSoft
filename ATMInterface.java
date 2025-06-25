@@ -10,7 +10,7 @@ public class ATMInterface extends JFrame {
 
     public ATMInterface() {
         // Frame properties
-        setTitle("ATM Interface"); 
+        setTitle("ATM Interface");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
@@ -94,4 +94,3 @@ public class ATMInterface extends JFrame {
         });
     }
 }
-
